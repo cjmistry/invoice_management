@@ -1,0 +1,21 @@
+Inventory Management: Done Tasks
+
+1)Login for all Users
+2)Register for all Users
+3)User Creation , Updation , Deletion
+4)Product Creation , Updation , Deletion with Image Upload and Image Preview
+5)User Dashbord show number of vendors and products
+6)Vendor Dashboard show number of users.
+7)Role and Permission Management.
+8)User can add Vendors
+9)User can add Products
+
+Pending Items 
+
+1)Invoice Module
+2)Filter Invoice on Dashboard
+3)Archiving of User
+
+
+
+
